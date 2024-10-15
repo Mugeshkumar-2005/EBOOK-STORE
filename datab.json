@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "id": "1133",
+      "name": "727823TUAD101 MUGESH KUMAR",
+      "email": "mugeshkumar971@gmail.com"
+    },
+    {
+      "id": "ab77",
+      "name": "Mki",
+      "email": "727823tuad101@skct.edu.in",
+      "password": "Mugesh123"
+    },
+    {
+      "id": "4467",
+      "name": "SUJAN",
+      "email": "727823tuad149@skct.edu.in",
+      "password": "Sujang12345"
+    },
+    {
+      "id": "9342",
+      "name": "sallu",
+      "email": "sk@skct.edu.in",
+      "password": "Salman123"
+    }
+  ]
+}
