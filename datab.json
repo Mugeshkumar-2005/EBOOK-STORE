@@ -22,6 +22,18 @@
       "name": "sallu",
       "email": "sk@skct.edu.in",
       "password": "Salman123"
+    },
+    {
+      "id": "8037",
+      "name": "Mugesh",
+      "email": "727823tuad101@skct.edu.in",
+      "password": "Mugesh123"
+    },
+    {
+      "id": "15df",
+      "name": "MugeshKumar",
+      "email": "727823tuad101@skct.edu.in",
+      "password": "Mugesh123"
     }
   ]
 }
